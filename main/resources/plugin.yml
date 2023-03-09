@@ -1,0 +1,10 @@
+name: AxolotlWelcome
+version: 1
+main: axolotlstudios.AxolotlWelcome
+api-version: 1.19
+softdepend: [ PlaceholderAPI ]
+author: AxolotlStudios
+
+commands:
+  axolotlwelcome:
+    description: Run command.

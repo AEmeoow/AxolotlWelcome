@@ -1,0 +1,16 @@
+#The prefox
+prefix: "&d&lAXOLOTL&f&lSTUDIOS"
+
+#Send the welcome message?
+welcome-enabled: true
+
+#The defined words
+defined-words:
+  - "hello"
+  - "hi"
+
+#Reward command that runs
+command-to-run: "eco give {player} 10"
+
+#Welcome message
+welcome-message: "&fWelcome &e{player} &fto the server!"
